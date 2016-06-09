@@ -1,0 +1,6 @@
+C:\Users\testes\Desktop\WcfPersonService\PersonService\bin\SaleServiceHost.dll.config
+C:\Users\testes\Desktop\WcfPersonService\PersonService\bin\SaleServiceHost.dll
+C:\Users\testes\Desktop\WcfPersonService\PersonService\bin\SaleServiceHost.pdb
+C:\Users\testes\Desktop\WcfPersonService\PersonService\obj\Debug\PersonService.csprojResolveAssemblyReference.cache
+C:\Users\testes\Desktop\WcfPersonService\PersonService\obj\Debug\SaleServiceHost.dll
+C:\Users\testes\Desktop\WcfPersonService\PersonService\obj\Debug\SaleServiceHost.pdb

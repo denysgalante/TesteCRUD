@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<person>
+  <item>
+    <id>1</id>
+    <name>Denys</name>
+    <lastName>Galante</lastName>
+  </item>
+  <item>
+    <id>2</id>
+    <name>Maria</name>
+    <lastName>Silva</lastName>
+  </item>
+  <item>
+    <id>3</id>
+    <name>Jose</name>
+    <lastName>Lopes</lastName>
+  </item>
+  <item>
+    <id>4</id>
+    <name>Joao</name>
+    <lastName>Oliveira</lastName>
+  </item>
+</person>

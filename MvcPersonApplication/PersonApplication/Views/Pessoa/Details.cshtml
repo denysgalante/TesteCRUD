@@ -1,0 +1,23 @@
+﻿@model PersonApplication.PersonReference.Person
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<fieldset>
+    <legend>Pessoa</legend>
+
+    <div class="display-label">Nome</div>
+    <div class="display-field">@Model.Name</div>
+
+    <div class="display-label">Sobrenome</div>
+    <div class="display-field">@Model.LastName</div>
+
+</fieldset>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id=Model.ID }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>
+
